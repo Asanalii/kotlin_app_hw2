@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="input_your_name">Input your name</string>
+    <string name="say_hello">Say hello</string>
+    <string name="hello_any">Hello %s</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="open_browser">Open browser</string>
+    <string name="send_text">Send text</string>
+    <string name="write_seconds">Write seconds</string>
+</resources>
